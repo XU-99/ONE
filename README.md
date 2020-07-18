@@ -16,7 +16,7 @@ If you like my code, I hope you can give a star. Thank you for your support.
 
 
 - Python
-- C/C++
+- C\C++
 - Assembly language
 - Verilog HDL
 
