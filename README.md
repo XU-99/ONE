@@ -1,7 +1,7 @@
 # ONE
 
 
-##Introduction
+## Introduction
 
 Hello everyone!
 
@@ -9,7 +9,7 @@ This is XU here, I'm a senior student from Tamkang University and I major in ele
 This repository shows the projects and code I worte in university.
 
 
-##Index
+## Index
 
 - Python
 - C/C++
@@ -17,6 +17,6 @@ This repository shows the projects and code I worte in university.
 - Verilog HDL
 
 
-##Contact information
+## Contact information
 
 E-mail: iamtreped@gmail.com
