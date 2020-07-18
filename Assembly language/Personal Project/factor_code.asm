@@ -1,4 +1,4 @@
-TITLE   求因數  (factor.asm)
+TITLE   求因數  (factor_code.asm)
 
 INCLUDE Irvine32.inc
 
