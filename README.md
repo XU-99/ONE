@@ -15,9 +15,9 @@ If you like my code, I hope you can give me a star. Thank you for your support.
 ## Index
 
 
-- Python
-- C\C++
 - Assembly language
+- C\C++
+- Python
 - Verilog HDL
 
 
