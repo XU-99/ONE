@@ -11,13 +11,13 @@ INCLUDE Irvine32.inc
         s  byte  0
 .code
 main PROC
-				call Clrscr
+	call Clrscr
         mov edx,offset Message
         call WriteString
         call ReadInt
         mov n,al
         
-				call crlf
+	call crlf
         mov edx,offset Message2
         call WriteString
         call ReadInt
@@ -45,8 +45,8 @@ Out_0:
         exit
         
 Line:
-				mov al,n
-				jmp Out_0
+	mov al,n
+	jmp Out_0
 				
 main ENDP
 END main
