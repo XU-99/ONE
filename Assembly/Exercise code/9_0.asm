@@ -25,7 +25,7 @@ main PROC
 		
 		mov    eax,0
 		mov    ebx,0
-		mov		 ecx,5
+		mov    ecx,5
 		mov    esi,0
 		
 L1: 
@@ -49,7 +49,7 @@ AtoC:
 		jmp    L1_END
 		
 L1_END:
-		inc	   esi
+		inc    esi
 		call   Dmem
 		call   Waitmsg
 		loop   L1
