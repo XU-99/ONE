@@ -9,13 +9,13 @@ INCLUDE Irvine32.inc
         n        byte ?
 .code
 main PROC
-				call Clrscr
+	call Clrscr
         mov edx,offset Message
         call WriteString
         call ReadInt
         mov m,al
         
-				call crlf
+	call crlf
         mov edx,offset Message2
         call WriteString
         call ReadInt
