@@ -7,13 +7,13 @@ INCLUDE Irvine32.inc
         Message2 byte "please enter second number =",0
 .code
 main PROC
-				call Clrscr
+	call Clrscr
         mov edx,offset Message
         call WriteString
         call ReadInt
         mov ecx,eax
         
-				call crlf
+	call crlf
         mov edx,offset Message2
         call WriteString
         call ReadInt
