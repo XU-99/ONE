@@ -18,7 +18,7 @@ INCLUDE Irvine32.inc
         
 .code
 main PROC
-				call Clrscr
+	call Clrscr
         mov edx,offset Message
         call WriteString
         call ReadInt
